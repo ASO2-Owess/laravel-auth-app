@@ -150,16 +150,4 @@ régénération de session, invalidation à la déconnexion.
 
 ## Auteur
 
-Ton Nom — [github.com/TON-USERNAME](https://github.com/TON-USERNAME)
-
-````
-
----
-
-Ensuite pousse le README sur GitHub :
-
-```cmd
-git add README.md
-git commit -m "docs: readme projet 1"
-git push
-````
+AKPA SALOMON OWESS
